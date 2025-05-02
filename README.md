@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Jain</h1>
 <h3 align="center">I am a full stack developer and exploring along the way. 🌐🔍</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Shubham-Jain98&color=blue)
 
 - 🔭 I’m currently working on **Full stack projects**
 - 🌱 I’m currently expanding my skills **MERN stack**
@@ -35,4 +35,5 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="40"/>
 </p>
 
-<img src="https://your-image-link.png" alt="Most Used Languages" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Jain98&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
