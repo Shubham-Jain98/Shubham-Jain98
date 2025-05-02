@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Jain</h1>
+<h3 align="center">I am a full stack developer and exploring along the way. 🌐🔍</h3>
 
-<!--
-**Shubham-Jain98/Shubham-Jain98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Full stack projects**
+- 🌱 I’m currently expanding my skills **MERN stack**
+- 💻 All of my projects are available at [GitHub](https://github.com/Shubham-Jain98)
+- 💬 Ask me about **Javascript, React Js, Node Js, C++, DSA**
+- 📫 How to reach me **Jshubhamm2004@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubham-jain-886615341/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" height="30" /></a>
+  <a href="https://www.instagram.com/shubham_jain98/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" height="30" /></a>
+  <a href="mailto:jshubhamm2004@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" height="30" /></a>
+</p>
